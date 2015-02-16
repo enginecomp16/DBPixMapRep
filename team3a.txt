@@ -1,0 +1,13 @@
+CREATE TABLE dummytrain ( trainNum INTEGER, xpos INTEGER, ypos INTEGER);
+INSERT INTO "dummytrain" VALUES( 0, 0, 0);
+INSERT INTO "dummytrain" VALUES( 0, 0, 0);
+INSERT INTO "dummytrain" VALUES( 0, 0, 0);
+INSERT INTO "dummytrain" VALUES( 0, 0, 0);
+INSERT INTO "dummytrain" VALUES( 0, 0, 0);
+
+CREATE TABLE dummyswitch ( switchNum INTEGER, setting INTEGER);
+INSERT INTO "dummyswitch" VALUES( 0, 0, 0);
+INSERT INTO "dummyswitch" VALUES( 0, 0, 0);
+INSERT INTO "dummyswitch" VALUES( 0, 0, 0);
+INSERT INTO "dummyswitch" VALUES( 0, 0, 0);
+INSERT INTO "dummyswitch" VALUES( 0, 0, 0);
