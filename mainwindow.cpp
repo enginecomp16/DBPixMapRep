@@ -22,10 +22,10 @@ MainWindow::MainWindow(QWidget *parent) :
     point.setColor("brown");
     //QPen  beacon(Qt::blue);
     beacon = new QPen(Qt::blue);
-    point.setWidth(50);
+    point.setWidth(50); //Make easier to view - testing only
     beacon->setWidth(20);
     path1.setWidth(6);
-    QPixmap pix("C://Users/Elaine/Downloads/pix.jpg");
+    QPixmap pix("C://Users/Elaine/Downloads/pix.jpg");  //insert file path to image here
     scene->addPixmap(pix);
     //Node0 = new QGraphicsItem;
 //    Node1 = scene->addLine(980,500,980,500,point);
