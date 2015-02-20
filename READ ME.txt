@@ -1,0 +1,5 @@
+The files in the root directory are initial files from sprint 1. 
+All updated forms of the project will be assigned new 
+directories (ie. Sprint2, Sprint3, etc) so that we may revert
+back to an older version in case of unexplainabled segfault
+or wanting to start fresh with a different implementation.
